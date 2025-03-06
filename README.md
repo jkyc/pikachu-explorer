@@ -1,0 +1,2 @@
+# pikachu-explorer
+pikachu.city
